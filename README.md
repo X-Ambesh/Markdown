@@ -112,7 +112,7 @@ for i in range(1,10):
 | Demogorgan | 30 ft| infnity|
 | Human | 5 to 7 ft | 100 Years|
 
-# 12- contente
+# 12- content
 > Click to go to bullet&Numbering section in this markdown
 [Bullet&Numbering](#bullet-points-lists)
 
